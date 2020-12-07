@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">phoneAuth</string>
+    <string name="resend">Resend</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="sending_otp">Sending OTP..</string>
+    <string name="next">NEXT</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="otp_auth">OTP AUTH</string>
+    <string name="welcome">Welcome</string>
+    <string name="save">Save</string>
+    <string name="email_address">Email Address</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="enter_details">Enter Details</string>
+    <string name="email">Email</string>
+    <string name="bikash_smallacademy_co">bikash@smallacademy.co</string>
+    <string name="name">Name</string>
+    <string name="mandar_bhide">Mandar Bhide</string>
+    <string name="mandarbhide62_gmail_com">mandarbhide62@gmail.com</string>
+    <string name="phone">Phone</string>
+    <string name="_91_7972202054">+91 7972202054</string>
+    <string name="log_out">Log Out</string>
+    <string name="proceed_to_pay" />
+    <string name="from" />
+    <string name="to" />
+    <string name="my_profile">My Profile</string>
+    <string name="book_tickets">Book Tickets</string>
+    <string name="schedule">Schedule</string>
+    <string name="success">Success!</string>
+    <string name="here_is_your_ticket">Here is your ticket</string>
+</resources>
